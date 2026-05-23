@@ -1,5 +1,5 @@
 # Following-Butterfly-Fallout-
-A light butterfly robot that uses a sensor(seperate machine/hair clip?) and follows it.
+A light butterfly robot that uses a hairclip as its target and follows it from a distance.
 
 Butterfly examples (Use manual remote controller/like drone)
 https://fabacademy.org/2018/labs/fablabbeijing/students/dian-song/finalproject.html
