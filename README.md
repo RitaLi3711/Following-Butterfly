@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=emjC0HYd5gE
 
 Materials:
 (Actual butterfly)
-- some sort of sensor (UWB sensors)  https://github.com/geraicerdas/Cerdas-UWB-Tracker
+- some sort of sensor (UWB sensors)  chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://download.mikroe.com/documents/datasheets/DWM1000_datasheet.pdf
 - Arduino uno mini
 -  thin films (PET (Polyethylene Terephthalate))   ... flower wrapping film
 - 1mm and 1.5mm Carbon fiber rods
