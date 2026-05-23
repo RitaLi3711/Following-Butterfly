@@ -1,6 +1,9 @@
 # Following-Butterfly-Fallout-
 A light butterfly robot that uses a hairclip as its target and follows it from a distance.
 
+<img width="1410" height="2000" alt="FOLLOWING BUTTERFLY" src="https://github.com/user-attachments/assets/391d8b0b-d116-4bdd-80bf-a0d8d28ff589" />
+
+
 Butterfly examples (Use manual remote controller/like drone)
 https://fabacademy.org/2018/labs/fablabbeijing/students/dian-song/finalproject.html
 https://dl.acm.org/doi/10.1145/3756423.3756506
